@@ -2,7 +2,7 @@
 
 Esta é a versão que fiz da interface da página de login do Instagram! 
 
-![image-20210804203918938](C:\Users\lenara.ventura\AppData\Roaming\Typora\typora-user-images\image-20210804203918938.png)
+<img src="C:\Users\lenara.ventura\AppData\Roaming\Typora\typora-user-images\image-20210804213914706.png" alt="image-20210804213914706" style="zoom:50%;" />
 
 ### Os requisitos são:
 
